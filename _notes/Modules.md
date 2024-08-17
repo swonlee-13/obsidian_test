@@ -60,6 +60,7 @@ tags: module
 ## Gaming
 	💡 Gameplay and User experience 의 new game, 사용자 설정 모드와 같은 모듈입니다.
 	목차에는 없지만, 나중에는 적혀있어서 추가해서 적어놨습니다.
+	
 - Major module: [[One more game module]]
 - Minor module: [[Game Customization Options module]]
 
@@ -68,6 +69,7 @@ tags: module
 
 ## Accessibility
 	이 모듈은 호환성을 보장하면서 웹 어플리케이션의 접근성을 향상시키는 데 집중합니다. 성능과 사용자 경험을 향상하기 위해서 브라우저를 지원하고, 다국어 지원을 하고, 시각장애인들을 이용해서 기능을 확장하고, 서버사이트 렌더링(SSR) 을 제공합니다. 
+	
 - Minor module: [[support all device module]]
 - Minor module: [[Browser Compatibility module]]
 - Minor module: [[Multiple language module]]
