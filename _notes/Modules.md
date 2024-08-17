@@ -23,7 +23,11 @@ tags: module
 - Major module: [[Blockchain module]]
 
 ## User Management
-	해당 모듈들은 User Management 의 세계를 깊게 탐구하며, 퐁 플랫폼 내에서 사용자 상호 작용과 액세스 제어의 중요한 측면을 다룹니다. 이것은 두가지 주요 구성을 포함하며, 유저 관리 및 인증의 필수 요소에 중점을 둡니다. 1. 여러 토너먼트에 걸친 사용자 참여. 2. 원격 인증 구현.
+	해당 모듈들은 User Management 의 세계를 깊게 탐구하며,
+	 퐁 플랫폼 내에서 사용자 상호 작용과 액세스 제어의 중요한 측면을 다룹니다.
+	  이것은 두가지 주요 구성을 포함하며, 유저 관리 및 인증의 필수 요소에 중점을 둡니다.
+	   1. 여러 토너먼트에 걸친 사용자 참여.
+	   2. 원격 인증 구현.
 
 - Major module: [[Standard User Management module]]
 - Major module: [[Remote authentication]]
@@ -38,20 +42,30 @@ tags: module
 - Major module: [[Live chat module]]
 
 ## AI-Algo
-	이 모듈은 프로젝트에 데이터 기반 요소를 도입하는 역할을 하며, 주요 모듈은 향상된 게임 플레이를 위한 AI 상대를 소개하고, 사용자 및 게임 통계 대시보드를 위한 마이너 모듈은 사용자에게 게임 경험을 미니멀하면서도 통찰력 있게 엿볼 수 있게 제공합니다. 
+	이 모듈은 프로젝트에 데이터 기반 요소를 도입하는 역할을 하며,
+	 주요 모듈은 향상된 게임 플레이를 위한 AI 상대를 소개하고,
+	 
+	  사용자 및 게임 통계 대시보드를 위한 마이너 모듈은
+	사용자에게 게임 경험을 미니멀하면서도 통찰력 있게 엿볼 수 있게 제공합니다. 
 
 - Major module: [[AI Opponent module]]
 - Minor module: [[User and Game Stats Dashboards module]]
 
 ## Cybersecurity
-	이 모듈은 프로젝트의 보안 상태를 강화하도록 설계되어있습니다. 메이저 모듈은 secure secrets management 를 위해서 Web Application Firewall (WAF), ModSecurity Configurations 와 HashiCorp Vault 를 통해 보안을 강화합니다. 마이너 모듈은 GDPR 준수 옵션, 사용자 데이터 익명화, 계정 삭제, two-factor authentication(2FA), Json Web Tokens (JWT)를 추가해서 종합적으로 프로젝트의 데이터 보호, 보안, 인증 보안을 보장합니다.
+	이 모듈은 프로젝트의 보안 상태를 강화하도록 설계되어있습니다.
+	메이저 모듈은 secure secrets management 를 위해서
+	Web Application Firewall (WAF), ModSecurity Configurations 와 HashiCorp Vault 를 통해 보안을 강화합니다.
+	
+	마이너 모듈은 GDPR 준수 옵션, 사용자 데이터 익명화, 계정 삭제, two-factor authentication(2FA), Json Web Tokens (JWT)를 추가해서
+	종합적으로 프로젝트의 데이터 보호, 보안, 인증 보안을 보장합니다.
 
 - Major module: [[WAF  ModSecurity module]]
 - Minor module: [[GDPR module]]
 - Major module: [[Two-Factor Authentication and JWT module]]
 
 ## Devops
-	이 모듈은 종합적으로 과제의 인프라 스트럭쳐와 아키텍쳐를 강화하는데 초점을 맞추고 있으며 그 수단으로 두가지 메이저 모듈과 한 가지 마이너 모듈을 제시합니다.
+	이 모듈은 종합적으로 과제의 인프라 스트럭쳐와 아키텍쳐를 강화하는데 초점을 맞추고 있으며
+	 그 수단으로 두가지 메이저 모듈과 한 가지 마이너 모듈을 제시합니다.
 
 - Major module: [[Infrastructure module]]
 - Minor module: [[Monitoring system module]]
@@ -59,6 +73,7 @@ tags: module
 
 ## Gaming
 	💡 Gameplay and User experience 의 new game, 사용자 설정 모드와 같은 모듈입니다.
+	
 	목차에는 없지만, 나중에는 적혀있어서 추가해서 적어놨습니다.
 	
 - Major module: [[One more game module]]
@@ -68,7 +83,11 @@ tags: module
 - Major module: [[3D game module]]
 
 ## Accessibility
-	이 모듈은 호환성을 보장하면서 웹 어플리케이션의 접근성을 향상시키는 데 집중합니다. 성능과 사용자 경험을 향상하기 위해서 브라우저를 지원하고, 다국어 지원을 하고, 시각장애인들을 이용해서 기능을 확장하고, 서버사이트 렌더링(SSR) 을 제공합니다. 
+	이 모듈은 호환성을 보장하면서 웹 어플리케이션의 접근성을 향상시키는 데 집중합니다.
+	성능과 사용자 경험을 향상하기 위해서 브라우저를 지원하고,
+	다국어 지원을 하고,
+	시각장애인들을 이용해서 기능을 확장하고,
+	서버사이트 렌더링(SSR) 을 제공합니다. 
 	
 - Minor module: [[support all device module]]
 - Minor module: [[Browser Compatibility module]]
