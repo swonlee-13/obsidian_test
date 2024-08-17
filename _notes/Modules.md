@@ -78,4 +78,3 @@ tags: module
 
 - Major module: [[Server-Side Pong module]]
 - Major module: [[CLI Pong]]
-
