@@ -8,7 +8,7 @@ permalink: /
 # Welcome! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  tlw<span style="font-weight: bold"><a href="{{ site.baseurl }}/_notes/ft-transcendance">ft_transcendance</a></span>
+  tlw<span style="font-weight: bold"><a href="{{ site.baseurl }}/ft-transcendance">ft_transcendance</a></span>
 </p>
 
 <strong>Recently updated notes</strong>
