@@ -16,3 +16,12 @@ tags: language
 - 사용자가 후속 웹사이트 방문을 위한 기본 선택으로 선호하는 언어를 설정할 수 있도록 허용합니다.
 
 ### 이 모듈은 다양한 언어 지원을 통해서 국제 사용자에게 유저 친과적인 컨텐츠를 제공해서 접근성과 포용성을 높이는 데 목적을 두고 있습니다.
+
+## 참고자료
+
+Internationalization (종종 i18n으로 줄여서 표현) in URL patterns은 Django 웹 프레임워크에서 다국어 지원을 위한 URL 패턴 관리 기능입니다. 이 기능을 사용하면 웹사이트의 URL을 여러 언어로 제공할 수 있어, 글로벌 사용자들에게 더 나은 경험을 제공할 수 있습니다.
+
+
+참고자료 : 장고의 다국적 언어 url 지원 기능에 대해서
+[[Django_Internationaliation]]
+https://docs.djangoproject.com/en/5.1/topics/i18n/translation/#url-internationalization
