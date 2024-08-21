@@ -9,5 +9,3 @@ tags: backend, django
 💡기본 언어 / 프레임워크를 사용해서 백엔드를 구축해도 됩니다.
 그러나, 관련 제약조건을 모두 만족해야 유효합니다.
 ```
-
-[[Minimal technical requirement.md|기본 제약조건 보러가기]]
