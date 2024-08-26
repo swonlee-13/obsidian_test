@@ -1,0 +1,1 @@
+[링크](https://docs.soliditylang.org/en/v0.8.26/index.html) 보고 정리.

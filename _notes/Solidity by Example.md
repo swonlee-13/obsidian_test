@@ -1,0 +1,1 @@
+[링크](https://docs.soliditylang.org/en/v0.8.26/solidity-by-example.html#solidity-by-example) 보고 나중에 정리

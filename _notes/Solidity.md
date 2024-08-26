@@ -17,3 +17,16 @@ Solidity 를 사용하면, 투료, 크라우드 펀딩, 블라인드 경매 및 
 # 시작하기
 ## 1. Smart Contact Base
 스마트 컨트랙트의 개념이 생소하다면 [[introduction to Smart Contracts]] 를 먼저 읽어보자.
+## 2. [[Blockchain Basics]]
+## 3. [[EVM]]
+
+# Solidity 에 대해 알아가기
+## 1. [[Solidity by Example]]
+## 2. [[Language Description]]
+
+# Solidity 컴파일러
+
+solidity 컴파일러를 설치하는 데는 다양한 방법이 있습니다. 단순하게 맘에 드는 옵션을 고르고 해당 [링크](https://docs.soliditylang.org/en/v0.8.26/installing-solidity.html#installing-solidity)를 따라서 설치하세요.
+
+내 선택: remix
+
